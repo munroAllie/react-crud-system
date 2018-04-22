@@ -1,0 +1,26 @@
+.btn {
+  margin: 0 8px 0 0;
+}
+
+.btn.disabled {
+  pointer-events: none;
+}
+
+body {
+  background-color: #F7F7F7 !important;
+}
+
+.required {
+  color: #dc3545;
+  font-weight: bold;
+  margin-Left: 10px;
+}
+
+input.disabled{
+  border: none;
+  pointer-events: none;
+}
+
+.table th {
+  vertical-align: middle !important;
+}
